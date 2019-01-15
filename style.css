@@ -77,11 +77,11 @@
     }
 }
 .navigasi{
-    background: url(https://cdn.idntimes.com/content-images/post/20161119/screen-shot-2016-11-19-at-75114-pm-32084bc6883fd9036c75a53ea7a1c485.png) no-repeat;
+    background: url(https://www.tasteofhome.com/wp-content/uploads/2018/01/Ganache-Topped-Chocolate-Cake_EXPS_DSBZ17_39438_B01_20_3b-4.jpg) no-repeat;
     background-size: cover;
 }
 .navigasi li{
-    background:rgba(255,255,255,.2);
+    background:rgba(0, 0, 0, 0.5);
     margin: 5px 0;
     padding: 0 10px
 }
