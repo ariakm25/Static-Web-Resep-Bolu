@@ -5,7 +5,15 @@
 /* BAHAN */
 
 /* CARA MEMBUAT */
-
+#cara{
+  font-size: 120%;
+	text-align: center;
+  font-weight: bold;
+}
+#campur {
+  background-position: center;
+ 	font-family: Georgia, Times, serif;
+}
 /* HASIl */
 
 /* FOOTER  */
