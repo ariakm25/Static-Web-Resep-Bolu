@@ -3,7 +3,9 @@
 /* RESEP INTRO */
 
 /* BAHAN */
-
+.card, .shadow{
+    min-height: 340px !important;
+}
 /* CARA MEMBUAT */
 
 /* HASIl */
