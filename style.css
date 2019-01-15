@@ -75,6 +75,9 @@
     #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
         display: block
     }
+    .navigasi{
+        background: rgb(80, 79, 79);
+    }
 }
 .navigasi{
     background: url(https://www.tasteofhome.com/wp-content/uploads/2018/01/Ganache-Topped-Chocolate-Cake_EXPS_DSBZ17_39438_B01_20_3b-4.jpg) no-repeat;
@@ -120,7 +123,9 @@ h4 {
 }
 
 /* BAHAN */
-
+.card, .shadow{
+    min-height: 340px !important;
+}
 /* CARA MEMBUAT */
 #cara{
   font-size: 120%;
