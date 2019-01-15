@@ -76,20 +76,20 @@
         display: block
     }
     .navigasi{
-        background: rgb(80, 79, 79);
+        background: url(https://www.tasteofhome.com/wp-content/uploads/2018/01/Ganache-Topped-Chocolate-Cake_EXPS_DSBZ17_39438_B01_20_3b-4.jpg) no-repeat!important;
+        background-size: cover;
+    }
+    .navigasi li{
+        background:rgba(0, 0, 0, 0.5);
+        margin: 5px 0;
+        padding: 0 10px
+    }
+    .navigasi li a{
+        color: #fff
     }
 }
 .navigasi{
-    background: url(https://www.tasteofhome.com/wp-content/uploads/2018/01/Ganache-Topped-Chocolate-Cake_EXPS_DSBZ17_39438_B01_20_3b-4.jpg) no-repeat;
-    background-size: cover;
-}
-.navigasi li{
-    background:rgba(0, 0, 0, 0.5);
-    margin: 5px 0;
-    padding: 0 10px
-}
-.navigasi li a{
-    color: #fff
+    background: rgb(80, 79, 79);
 }
 /* RESEP INTRO */
 div.header {
