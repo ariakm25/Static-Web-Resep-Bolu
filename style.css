@@ -8,6 +8,12 @@
 #sideNav .navbar-toggler:focus {
     outline-color: #d48a6e
 }
+@media (min-width: 992px) {
+    body {
+        padding-top:0;
+        padding-left: 17rem;
+    }
+}
 
 @media (min-width: 992px) {
     #sideNav {
@@ -77,6 +83,7 @@
 .navigasi li{
     background:rgba(255,255,255,.2);
     margin: 5px 0;
+    padding: 0 10px
 }
 .navigasi li a{
     color: #fff
@@ -85,7 +92,6 @@
 div.header {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
-    margin: 10px;
     padding: 10px;
     height: 100vh;
     width: 100%;
@@ -108,6 +114,9 @@ h4 {
 .kel {
     color: white;
     font-size: 45px;
+}
+.recipename,.kel{
+    text-shadow: 1px 1px 13px #000;
 }
 
 /* BAHAN */
